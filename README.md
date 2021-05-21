@@ -1,3 +1,3 @@
-# media-standards
+# 媒体标准
 
-some standard doc for multimedia development
+多媒体开发相关的标准文档。
