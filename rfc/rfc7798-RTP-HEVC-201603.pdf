@@ -5,10 +5,10 @@
 /Title (Enscript Output)
 /Author (RFC Editor)
 /Creator (GNU enscript 1.6.4)
-/ModDate (D:20221230153832+08'00')
+/ModDate (D:20230117131128+08'00')
 /Producer (GPL Ghostscript 9.06)
 /CreationDate (D:20160322174829-07'00')
-/PXCViewerInfo (PDF-XChange Viewer;2.5.322.10;Dec 13 2018;09:19:53;D:20221230153832+08'00')
+/PXCViewerInfo (PDF-XChange Viewer;2.5.322.10;Dec 13 2018;09:19:53;D:20230117131128+08'00')
 >>
 endobj
 2 0 obj
@@ -47,7 +47,7 @@ stream
 		</rdf:Description>
 		<rdf:Description rdf:about=""
 				xmlns:xap="http://ns.adobe.com/xap/1.0/">
-			<xap:ModifyDate>2022-12-30T15:38:32+08:00</xap:ModifyDate>
+			<xap:ModifyDate>2023-01-17T13:11:28+08:00</xap:ModifyDate>
 			<xap:CreateDate>2016-03-22T17:48:29-07:00</xap:CreateDate>
 			<xap:CreatorTool>GNU enscript 1.6.4</xap:CreatorTool>
 		</rdf:Description>
@@ -99,7 +99,7 @@ endobj
 5 0 obj
 <<
 /Last 92 0 R
-/Count 38
+/Count 50
 /First 93 0 R
 >>
 endobj
@@ -3344,7 +3344,7 @@ endobj
 /Last 357 0 R
 /Next 358 0 R
 /Prev 93 0 R
-/Count 5
+/Count 16
 /First 359 0 R
 /Title (1. Introduction)
 /Parent 5 0 R
@@ -3369,8 +3369,8 @@ endobj
 /Last 360 0 R
 /Next 352 0 R
 /Prev 361 0 R
-/Count 1
-/First 360 0 R
+/Count 2
+/First 362 0 R
 /Title (12.  References)
 /Parent 5 0 R
 >>
@@ -3386,7 +3386,7 @@ endobj
 358 0 obj
 <<
 /Dest [20 0 R /XYZ 0 683.25 null]
-/Next 362 0 R
+/Next 363 0 R
 /Prev 353 0 R
 /Title (2.  Conventions)
 /Parent 5 0 R
@@ -3395,18 +3395,19 @@ endobj
 359 0 obj
 <<
 /Dest [9 0 R /XYZ 0 759.75 null]
-/Last 363 0 R
+/Last 364 0 R
 /Next 357 0 R
-/Count 4
-/First 364 0 R
+/Count 15
+/First 365 0 R
 /Title (1.1.  Overview of the HEVC Codec)
 /Parent 353 0 R
 >>
 endobj
 360 0 obj
 <<
-/Dest [85 0 R /XYZ 0 306.75 null]
-/Title (12.1.  Normative References)
+/Dest [87 0 R /XYZ 0 556.2 null]
+/Prev 362 0 R
+/Title (12.2.  Informative References)
 /Parent 356 0 R
 >>
 endobj
@@ -3414,534 +3415,542 @@ endobj
 <<
 /Dest [85 0 R /XYZ 0 414.75 null]
 /Next 356 0 R
-/Prev 365 0 R
+/Prev 366 0 R
 /Title (11.  IANA Considerations)
 /Parent 5 0 R
 >>
 endobj
 362 0 obj
 <<
-/Dest [20 0 R /XYZ 0 503.25 null]
-/Last 366 0 R
-/Next 367 0 R
-/Prev 358 0 R
-/Count 3
-/First 368 0 R
-/Title (3.  Definitions and Abbreviations)
-/Parent 5 0 R
+/Dest [85 0 R /XYZ 0 306.75 null]
+/Next 360 0 R
+/Title (12.1.  Normative References)
+/Parent 356 0 R
 >>
 endobj
 363 0 obj
 <<
-/Dest [18 0 R /XYZ 0 488.25 null]
-/Prev 369 0 R
-/Title (1.1.4.  NAL Unit Header)
-/Parent 359 0 R
+/Dest [20 0 R /XYZ 0 503.25 null]
+/Last 367 0 R
+/Next 368 0 R
+/Prev 358 0 R
+/Count 3
+/First 369 0 R
+/Title (3.  Definitions and Abbreviations)
+/Parent 5 0 R
 >>
 endobj
 364 0 obj
 <<
-/Dest [9 0 R /XYZ 0 543.75 null]
-/Last 370 0 R
-/Next 371 0 R
-/Count -6
-/First 372 0 R
-/Title (1.1.1.  Coding-Tool Features)
+/Dest [18 0 R /XYZ 0 488.25 null]
+/Prev 370 0 R
+/Title (1.1.4.  NAL Unit Header)
 /Parent 359 0 R
 >>
 endobj
 365 0 obj
 <<
-/Dest [84 0 R /XYZ 0 443.25 null]
-/Next 361 0 R
-/Prev 373 0 R
-/Title (10.  Congestion Control)
-/Parent 5 0 R
+/Dest [9 0 R /XYZ 0 543.75 null]
+/Last 371 0 R
+/Next 372 0 R
+/Count -6
+/First 373 0 R
+/Title (1.1.1.  Coding-Tool Features)
+/Parent 359 0 R
 >>
 endobj
 366 0 obj
 <<
-/Dest [24 0 R /XYZ 0 749.25 null]
-/Prev 368 0 R
-/Title (3.2.  Abbreviations)
-/Parent 362 0 R
+/Dest [84 0 R /XYZ 0 443.25 null]
+/Next 361 0 R
+/Prev 374 0 R
+/Title (10.  Congestion Control)
+/Parent 5 0 R
 >>
 endobj
 367 0 obj
 <<
-/Dest [25 0 R /XYZ 0 576.75 null]
-/Last 374 0 R
-/Next 375 0 R
-/Prev 362 0 R
-/Count 10
-/First 376 0 R
-/Title (4.  RTP Payload Format)
-/Parent 5 0 R
+/Dest [24 0 R /XYZ 0 749.25 null]
+/Prev 369 0 R
+/Title (3.2.  Abbreviations)
+/Parent 363 0 R
 >>
 endobj
 368 0 obj
 <<
-/Dest [20 0 R /XYZ 0 467.25 null]
-/Last 377 0 R
-/Next 366 0 R
-/Count 2
-/First 378 0 R
-/Title (3.1.  Definitions)
-/Parent 362 0 R
+/Dest [25 0 R /XYZ 0 576.75 null]
+/Last 375 0 R
+/Next 376 0 R
+/Prev 363 0 R
+/Count 10
+/First 377 0 R
+/Title (4.  RTP Payload Format)
+/Parent 5 0 R
 >>
 endobj
 369 0 obj
 <<
-/Dest [16 0 R /XYZ 0 437.25 null]
-/Next 363 0 R
-/Prev 371 0 R
-/Title (1.1.3.  Parallel Processing Support)
-/Parent 359 0 R
+/Dest [20 0 R /XYZ 0 467.25 null]
+/Last 378 0 R
+/Next 367 0 R
+/Count 2
+/First 379 0 R
+/Title (3.1.  Definitions)
+/Parent 363 0 R
 >>
 endobj
 370 0 obj
 <<
-/Dest [11 0 R /XYZ 0 666.75 null]
-/Prev 379 0 R
-/Title (Other coding-tool features)
-/Parent 364 0 R
+/Dest [16 0 R /XYZ 0 437.25 null]
+/Next 364 0 R
+/Prev 372 0 R
+/Title (1.1.3.  Parallel Processing Support)
+/Parent 359 0 R
 >>
 endobj
 371 0 obj
 <<
-/Dest [11 0 R /XYZ 0 615.75 null]
-/Last 380 0 R
-/Next 369 0 R
-/Prev 364 0 R
-/Count -12
-/First 381 0 R
-/Title (1.1.2.  Systems and Transport Interfaces)
-/Parent 359 0 R
+/Dest [11 0 R /XYZ 0 666.75 null]
+/Prev 380 0 R
+/Title (Other coding-tool features)
+/Parent 365 0 R
 >>
 endobj
 372 0 obj
 <<
-/Dest [9 0 R /XYZ 0 399.75 null]
-/Next 382 0 R
-/Title (Quad-tree block and transform structure)
-/Parent 364 0 R
+/Dest [11 0 R /XYZ 0 615.75 null]
+/Last 381 0 R
+/Next 370 0 R
+/Prev 365 0 R
+/Count 12
+/First 382 0 R
+/Title (1.1.2.  Systems and Transport Interfaces)
+/Parent 359 0 R
 >>
 endobj
 373 0 obj
 <<
-/Dest [83 0 R /XYZ 0 687.75 null]
-/Next 365 0 R
-/Prev 383 0 R
-/Title (9.  Security Considerations)
-/Parent 5 0 R
+/Dest [9 0 R /XYZ 0 399.75 null]
+/Next 383 0 R
+/Title (Quad-tree block and transform structure)
+/Parent 365 0 R
 >>
 endobj
 374 0 obj
 <<
-/Dest [42 0 R /XYZ 0 344.25 null]
+/Dest [83 0 R /XYZ 0 687.75 null]
+/Next 366 0 R
 /Prev 384 0 R
-/Title (4.6.  Decoding Order Number)
-/Parent 367 0 R
+/Title (9.  Security Considerations)
+/Parent 5 0 R
 >>
 endobj
 375 0 obj
 <<
-/Dest [44 0 R /XYZ 0 503.25 null]
-/Next 385 0 R
-/Prev 367 0 R
-/Title (5.  Packetization Rules)
-/Parent 5 0 R
+/Dest [42 0 R /XYZ 0 344.25 null]
+/Prev 385 0 R
+/Title (4.6.  Decoding Order Number)
+/Parent 368 0 R
 >>
 endobj
 376 0 obj
 <<
-/Dest [25 0 R /XYZ 0 540.75 null]
+/Dest [44 0 R /XYZ 0 503.25 null]
 /Next 386 0 R
-/Title (4.1.  RTP Header Usage)
-/Parent 367 0 R
+/Prev 368 0 R
+/Title (5.  Packetization Rules)
+/Parent 5 0 R
 >>
 endobj
 377 0 obj
 <<
-/Dest [22 0 R /XYZ 0 662.25 null]
-/Prev 378 0 R
-/Title (3.1.2.  Definitions Specific to This Memo)
+/Dest [25 0 R /XYZ 0 540.75 null]
+/Next 387 0 R
+/Title (4.1.  RTP Header Usage)
 /Parent 368 0 R
 >>
 endobj
 378 0 obj
 <<
-/Dest [20 0 R /XYZ 0 431.25 null]
-/Next 377 0 R
-/Title (3.1.1.  Definitions from the HEVC Specification)
-/Parent 368 0 R
+/Dest [22 0 R /XYZ 0 662.25 null]
+/Prev 379 0 R
+/Title (3.1.2.  Definitions Specific to This Memo)
+/Parent 369 0 R
 >>
 endobj
 379 0 obj
 <<
-/Dest [10 0 R /XYZ 0 299.25 null]
-/Next 370 0 R
-/Prev 387 0 R
-/Title (Intra prediction and intra-coding)
-/Parent 364 0 R
+/Dest [20 0 R /XYZ 0 431.25 null]
+/Next 378 0 R
+/Title (3.1.1.  Definitions from the HEVC Specification)
+/Parent 369 0 R
 >>
 endobj
 380 0 obj
 <<
-/Dest [15 0 R /XYZ 0 465.75 null]
+/Dest [10 0 R /XYZ 0 299.25 null]
+/Next 371 0 R
 /Prev 388 0 R
-/Title (New SEI messages)
-/Parent 371 0 R
+/Title (Intra prediction and intra-coding)
+/Parent 365 0 R
 >>
 endobj
 381 0 obj
 <<
-/Dest [11 0 R /XYZ 0 471.75 null]
-/Next 389 0 R
-/Title (Video parameter set)
-/Parent 371 0 R
+/Dest [15 0 R /XYZ 0 465.75 null]
+/Prev 389 0 R
+/Title (New SEI messages)
+/Parent 372 0 R
 >>
 endobj
 382 0 obj
 <<
-/Dest [10 0 R /XYZ 0 767.25 null]
+/Dest [11 0 R /XYZ 0 471.75 null]
 /Next 390 0 R
-/Prev 372 0 R
-/Title (Entropy coding)
-/Parent 364 0 R
+/Title (Video parameter set)
+/Parent 372 0 R
 >>
 endobj
 383 0 obj
 <<
-/Dest [80 0 R /XYZ 0 485.25 null]
-/Last 391 0 R
-/Next 373 0 R
-/Prev 392 0 R
-/Count 4
-/First 393 0 R
-/Title (8.  Use with Feedback Messages)
-/Parent 5 0 R
+/Dest [10 0 R /XYZ 0 767.25 null]
+/Next 391 0 R
+/Prev 373 0 R
+/Title (Entropy coding)
+/Parent 365 0 R
 >>
 endobj
 384 0 obj
 <<
-/Dest [41 0 R /XYZ 0 660.75 null]
+/Dest [80 0 R /XYZ 0 485.25 null]
+/Last 392 0 R
 /Next 374 0 R
-/Prev 394 0 R
-/Title (4.5.  Temporal Scalability Control Information)
-/Parent 367 0 R
+/Prev 393 0 R
+/Count 4
+/First 394 0 R
+/Title (8.  Use with Feedback Messages)
+/Parent 5 0 R
 >>
 endobj
 385 0 obj
 <<
-/Dest [45 0 R /XYZ 0 726.75 null]
-/Next 392 0 R
-/Prev 375 0 R
-/Title (6.  De-packetization Process)
-/Parent 5 0 R
+/Dest [41 0 R /XYZ 0 660.75 null]
+/Next 375 0 R
+/Prev 395 0 R
+/Title (4.5.  Temporal Scalability Control Information)
+/Parent 368 0 R
 >>
 endobj
 386 0 obj
 <<
-/Dest [27 0 R /XYZ 0 411.75 null]
-/Next 395 0 R
+/Dest [45 0 R /XYZ 0 726.75 null]
+/Next 393 0 R
 /Prev 376 0 R
-/Title (4.2.  Payload Header Usage)
-/Parent 367 0 R
+/Title (6.  De-packetization Process)
+/Parent 5 0 R
 >>
 endobj
 387 0 obj
 <<
-/Dest [10 0 R /XYZ 0 479.25 null]
-/Next 379 0 R
-/Prev 390 0 R
-/Title (Motion prediction and coding)
-/Parent 364 0 R
+/Dest [27 0 R /XYZ 0 411.75 null]
+/Next 396 0 R
+/Prev 377 0 R
+/Title (4.2.  Payload Header Usage)
+/Parent 368 0 R
 >>
 endobj
 388 0 obj
 <<
-/Dest [15 0 R /XYZ 0 609.75 null]
+/Dest [10 0 R /XYZ 0 479.25 null]
 /Next 380 0 R
-/Prev 396 0 R
-/Title (Ultra-low delay support)
-/Parent 371 0 R
+/Prev 391 0 R
+/Title (Motion prediction and coding)
+/Parent 365 0 R
 >>
 endobj
 389 0 obj
 <<
-/Dest [11 0 R /XYZ 0 291.75 null]
-/Next 397 0 R
-/Prev 381 0 R
-/Title (Profile, tier, and level)
-/Parent 371 0 R
+/Dest [15 0 R /XYZ 0 609.75 null]
+/Next 381 0 R
+/Prev 397 0 R
+/Title (Ultra-low delay support)
+/Parent 372 0 R
 >>
 endobj
 390 0 obj
 <<
-/Dest [10 0 R /XYZ 0 659.25 null]
-/Next 387 0 R
+/Dest [11 0 R /XYZ 0 291.75 null]
+/Next 398 0 R
 /Prev 382 0 R
-/Title (In-loop filtering)
-/Parent 364 0 R
+/Title (Profile, tier, and level)
+/Parent 372 0 R
 >>
 endobj
 391 0 obj
 <<
-/Dest [82 0 R /XYZ 0 320.25 null]
-/Prev 398 0 R
-/Title (8.4.  Full Intra Request \(FIR\))
-/Parent 383 0 R
+/Dest [10 0 R /XYZ 0 659.25 null]
+/Next 388 0 R
+/Prev 383 0 R
+/Title (In-loop filtering)
+/Parent 365 0 R
 >>
 endobj
 392 0 obj
 <<
-/Dest [47 0 R /XYZ 0 561.75 null]
-/Last 399 0 R
-/Next 383 0 R
-/Prev 385 0 R
-/Count 6
-/First 400 0 R
-/Title (7.  Payload Format Parameters)
-/Parent 5 0 R
+/Dest [82 0 R /XYZ 0 320.25 null]
+/Prev 399 0 R
+/Title (8.4.  Full Intra Request \(FIR\))
+/Parent 384 0 R
 >>
 endobj
 393 0 obj
 <<
-/Dest [80 0 R /XYZ 0 413.25 null]
-/Next 401 0 R
-/Title (8.1.  Picture Loss Indication \(PLI\))
-/Parent 383 0 R
+/Dest [47 0 R /XYZ 0 561.75 null]
+/Last 400 0 R
+/Next 384 0 R
+/Prev 386 0 R
+/Count 6
+/First 401 0 R
+/Title (7.  Payload Format Parameters)
+/Parent 5 0 R
 >>
 endobj
 394 0 obj
 <<
-/Dest [29 0 R /XYZ 0 750.75 null]
-/Last 402 0 R
-/Next 384 0 R
-/Prev 395 0 R
-/Count 5
-/First 403 0 R
-/Title (4.4.  Payload Structures)
-/Parent 367 0 R
+/Dest [80 0 R /XYZ 0 413.25 null]
+/Next 402 0 R
+/Title (8.1.  Picture Loss Indication \(PLI\))
+/Parent 384 0 R
 >>
 endobj
 395 0 obj
 <<
-/Dest [28 0 R /XYZ 0 779.25 null]
-/Next 394 0 R
-/Prev 386 0 R
-/Title (4.3.  Transmission Modes)
-/Parent 367 0 R
+/Dest [29 0 R /XYZ 0 750.75 null]
+/Last 403 0 R
+/Next 385 0 R
+/Prev 396 0 R
+/Count 5
+/First 404 0 R
+/Title (4.4.  Payload Structures)
+/Parent 368 0 R
 >>
 endobj
 396 0 obj
 <<
-/Dest [14 0 R /XYZ 0 422.25 null]
-/Next 388 0 R
-/Prev 404 0 R
-/Title (Reference picture management)
-/Parent 371 0 R
+/Dest [28 0 R /XYZ 0 779.25 null]
+/Next 395 0 R
+/Prev 387 0 R
+/Title (4.3.  Transmission Modes)
+/Parent 368 0 R
 >>
 endobj
 397 0 obj
 <<
-/Dest [12 0 R /XYZ 0 551.25 null]
-/Next 405 0 R
-/Prev 389 0 R
-/Title (Bitstream and elementary stream)
-/Parent 371 0 R
+/Dest [14 0 R /XYZ 0 422.25 null]
+/Next 389 0 R
+/Prev 405 0 R
+/Title (Reference picture management)
+/Parent 372 0 R
 >>
 endobj
 398 0 obj
 <<
-/Dest [82 0 R /XYZ 0 680.25 null]
-/Next 391 0 R
-/Prev 401 0 R
-/Title (8.3.  Reference Picture Selection Indication \(RPSI\))
-/Parent 383 0 R
+/Dest [12 0 R /XYZ 0 551.25 null]
+/Next 406 0 R
+/Prev 390 0 R
+/Title (Bitstream and elementary stream)
+/Parent 372 0 R
 >>
 endobj
 399 0 obj
 <<
-/Dest [69 0 R /XYZ 0 438.75 null]
-/Last 406 0 R
-/Prev 400 0 R
-/Count 5
-/First 407 0 R
-/Title (7.2.  SDP Parameters)
-/Parent 392 0 R
+/Dest [82 0 R /XYZ 0 680.25 null]
+/Next 392 0 R
+/Prev 402 0 R
+/Title (8.3.  Reference Picture Selection Indication \(RPSI\))
+/Parent 384 0 R
 >>
 endobj
 400 0 obj
 <<
-/Dest [47 0 R /XYZ 0 417.75 null]
-/Next 399 0 R
-/Title (7.1.  Media Type Registration)
-/Parent 392 0 R
+/Dest [69 0 R /XYZ 0 438.75 null]
+/Last 407 0 R
+/Prev 401 0 R
+/Count 5
+/First 408 0 R
+/Title (7.2.  SDP Parameters)
+/Parent 393 0 R
 >>
 endobj
 401 0 obj
 <<
-/Dest [81 0 R /XYZ 0 708.75 null]
-/Next 398 0 R
-/Prev 393 0 R
-/Title (8.2.  Slice Loss Indication \(SLI\))
-/Parent 383 0 R
+/Dest [47 0 R /XYZ 0 417.75 null]
+/Next 400 0 R
+/Title (7.1.  Media Type Registration)
+/Parent 393 0 R
 >>
 endobj
 402 0 obj
 <<
-/Dest [37 0 R /XYZ 0 774.75 null]
-/Last 408 0 R
-/Prev 409 0 R
-/Count 2
-/First 410 0 R
-/Title (4.4.4.  PACI Packets)
-/Parent 394 0 R
+/Dest [81 0 R /XYZ 0 708.75 null]
+/Next 399 0 R
+/Prev 394 0 R
+/Title (8.2.  Slice Loss Indication \(SLI\))
+/Parent 384 0 R
 >>
 endobj
 403 0 obj
 <<
-/Dest [29 0 R /XYZ 0 462.75 null]
-/Next 411 0 R
-/Title (4.4.1.  Single NAL Unit Packets)
-/Parent 394 0 R
+/Dest [37 0 R /XYZ 0 774.75 null]
+/Last 409 0 R
+/Prev 410 0 R
+/Count 2
+/First 411 0 R
+/Title (4.4.4.  PACI Packets)
+/Parent 395 0 R
 >>
 endobj
 404 0 obj
 <<
-/Dest [14 0 R /XYZ 0 494.25 null]
-/Next 396 0 R
-/Prev 412 0 R
-/Title (Bitstream extraction)
-/Parent 371 0 R
+/Dest [29 0 R /XYZ 0 462.75 null]
+/Next 412 0 R
+/Title (4.4.1.  Single NAL Unit Packets)
+/Parent 395 0 R
 >>
 endobj
 405 0 obj
 <<
-/Dest [12 0 R /XYZ 0 407.25 null]
-/Next 413 0 R
-/Prev 397 0 R
-/Title (Random access support)
-/Parent 371 0 R
+/Dest [14 0 R /XYZ 0 494.25 null]
+/Next 397 0 R
+/Prev 413 0 R
+/Title (Bitstream extraction)
+/Parent 372 0 R
 >>
 endobj
 406 0 obj
 <<
-/Dest [80 0 R /XYZ 0 629.25 null]
-/Prev 414 0 R
-/Title (7.2.5.  Dependency Signaling in Multi-Stream Mode)
-/Parent 399 0 R
+/Dest [12 0 R /XYZ 0 407.25 null]
+/Next 414 0 R
+/Prev 398 0 R
+/Title (Random access support)
+/Parent 372 0 R
 >>
 endobj
 407 0 obj
 <<
-/Dest [69 0 R /XYZ 0 402.75 null]
-/Next 415 0 R
-/Title (7.2.1.  Mapping of Payload Type Parameters to SDP)
-/Parent 399 0 R
+/Dest [80 0 R /XYZ 0 629.25 null]
+/Prev 415 0 R
+/Title (7.2.5.  Dependency Signaling in Multi-Stream Mode)
+/Parent 400 0 R
 >>
 endobj
 408 0 obj
 <<
-/Dest [40 0 R /XYZ 0 761.25 null]
-/Prev 410 0 R
-/Title (4.4.4.2.  PACI Extensions \(Informative\))
-/Parent 402 0 R
+/Dest [69 0 R /XYZ 0 402.75 null]
+/Next 416 0 R
+/Title (7.2.1.  Mapping of Payload Type Parameters to SDP)
+/Parent 400 0 R
 >>
 endobj
 409 0 obj
 <<
-/Dest [34 0 R /XYZ 0 428.25 null]
-/Next 402 0 R
+/Dest [40 0 R /XYZ 0 761.25 null]
 /Prev 411 0 R
-/Title (4.4.3.  Fragmentation Units)
-/Parent 394 0 R
+/Title (4.4.4.2.  PACI Extensions \(Informative\))
+/Parent 403 0 R
 >>
 endobj
 410 0 obj
 <<
-/Dest [39 0 R /XYZ 0 609.75 null]
-/Next 408 0 R
-/Title (4.4.4.1.  Reasons for the PACI Rules \(Informative\))
-/Parent 402 0 R
+/Dest [34 0 R /XYZ 0 428.25 null]
+/Next 403 0 R
+/Prev 412 0 R
+/Title (4.4.3.  Fragmentation Units)
+/Parent 395 0 R
 >>
 endobj
 411 0 obj
 <<
-/Dest [30 0 R /XYZ 0 614.25 null]
+/Dest [39 0 R /XYZ 0 609.75 null]
 /Next 409 0 R
-/Prev 403 0 R
-/Title (4.4.2.  Aggregation Packets \(APs\))
-/Parent 394 0 R
+/Title (4.4.4.1.  Reasons for the PACI Rules \(Informative\))
+/Parent 403 0 R
 >>
 endobj
 412 0 obj
 <<
-/Dest [14 0 R /XYZ 0 638.25 null]
-/Next 404 0 R
-/Prev 416 0 R
-/Title (Extensibility)
-/Parent 371 0 R
+/Dest [30 0 R /XYZ 0 614.25 null]
+/Next 410 0 R
+/Prev 404 0 R
+/Title (4.4.2.  Aggregation Packets \(APs\))
+/Parent 395 0 R
 >>
 endobj
 413 0 obj
 <<
-/Dest [13 0 R /XYZ 0 594.75 null]
-/Next 417 0 R
-/Prev 405 0 R
-/Title (Temporal scalability support)
-/Parent 371 0 R
+/Dest [14 0 R /XYZ 0 638.25 null]
+/Next 405 0 R
+/Prev 417 0 R
+/Title (Extensibility)
+/Parent 372 0 R
 >>
 endobj
 414 0 obj
 <<
-/Dest [80 0 R /XYZ 0 773.25 null]
-/Next 406 0 R
-/Prev 418 0 R
-/Title (7.2.4.  Considerations for Parameter Sets)
-/Parent 399 0 R
+/Dest [13 0 R /XYZ 0 594.75 null]
+/Next 418 0 R
+/Prev 406 0 R
+/Title (Temporal scalability support)
+/Parent 372 0 R
 >>
 endobj
 415 0 obj
 <<
-/Dest [70 0 R /XYZ 0 338.25 null]
-/Next 418 0 R
-/Prev 407 0 R
-/Title (7.2.2.  Usage with SDP Offer/Answer Model)
-/Parent 399 0 R
+/Dest [80 0 R /XYZ 0 773.25 null]
+/Next 407 0 R
+/Prev 419 0 R
+/Title (7.2.4.  Considerations for Parameter Sets)
+/Parent 400 0 R
 >>
 endobj
 416 0 obj
 <<
-/Dest [13 0 R /XYZ 0 270.75 null]
-/Next 412 0 R
-/Prev 417 0 R
-/Title (Sub-layer reference or non-reference pictures)
-/Parent 371 0 R
+/Dest [70 0 R /XYZ 0 338.25 null]
+/Next 419 0 R
+/Prev 408 0 R
+/Title (7.2.2.  Usage with SDP Offer/Answer Model)
+/Parent 400 0 R
 >>
 endobj
 417 0 obj
 <<
-/Dest [13 0 R /XYZ 0 486.75 null]
-/Next 416 0 R
-/Prev 413 0 R
-/Title (Temporal sub-layer switching support)
-/Parent 371 0 R
+/Dest [13 0 R /XYZ 0 270.75 null]
+/Next 413 0 R
+/Prev 418 0 R
+/Title (Sub-layer reference or non-reference pictures)
+/Parent 372 0 R
 >>
 endobj
 418 0 obj
 <<
+/Dest [13 0 R /XYZ 0 486.75 null]
+/Next 417 0 R
+/Prev 414 0 R
+/Title (Temporal sub-layer switching support)
+/Parent 372 0 R
+>>
+endobj
+419 0 obj
+<<
 /Dest [78 0 R /XYZ 0 362.25 null]
-/Next 414 0 R
-/Prev 415 0 R
+/Next 415 0 R
+/Prev 416 0 R
 /Title (7.2.3.  Usage in Declarative Session Descriptions)
-/Parent 399 0 R
+/Parent 400 0 R
 >>
 endobj
 xref
-0 419
+0 420
 0000000000 65535 f
 0000000015 00000 n
 0000000312 00000 n
@@ -4296,78 +4305,79 @@ xref
 0000122489 00000 n
 0000122524 00000 n
 0000122648 00000 n
-0000122807 00000 n
-0000122877 00000 n
-0000122924 00000 n
-0000123086 00000 n
-0000123219 00000 n
-0000123343 00000 n
-0000123509 00000 n
-0000123619 00000 n
-0000123752 00000 n
-0000123932 00000 n
-0000124052 00000 n
-0000124215 00000 n
-0000124347 00000 n
-0000124463 00000 n
-0000124633 00000 n
-0000124785 00000 n
-0000124931 00000 n
-0000125054 00000 n
-0000125245 00000 n
-0000125380 00000 n
-0000125516 00000 n
-0000125640 00000 n
-0000125772 00000 n
-0000125891 00000 n
-0000126029 00000 n
-0000126173 00000 n
-0000126317 00000 n
-0000126430 00000 n
-0000126546 00000 n
-0000126671 00000 n
-0000126848 00000 n
-0000127005 00000 n
-0000127142 00000 n
-0000127279 00000 n
-0000127418 00000 n
-0000127552 00000 n
-0000127687 00000 n
-0000127815 00000 n
-0000127944 00000 n
-0000128120 00000 n
-0000128254 00000 n
-0000128427 00000 n
-0000128562 00000 n
-0000128701 00000 n
-0000128843 00000 n
-0000129007 00000 n
-0000129162 00000 n
-0000129288 00000 n
-0000129434 00000 n
-0000129589 00000 n
-0000129717 00000 n
-0000129848 00000 n
-0000129980 00000 n
-0000130126 00000 n
-0000130272 00000 n
-0000130410 00000 n
-0000130548 00000 n
-0000130697 00000 n
-0000130843 00000 n
-0000130967 00000 n
-0000131106 00000 n
-0000131258 00000 n
-0000131410 00000 n
-0000131566 00000 n
-0000131713 00000 n
+0000122808 00000 n
+0000122878 00000 n
+0000122925 00000 n
+0000123087 00000 n
+0000123220 00000 n
+0000123344 00000 n
+0000123511 00000 n
+0000123636 00000 n
+0000123769 00000 n
+0000123893 00000 n
+0000124073 00000 n
+0000124193 00000 n
+0000124356 00000 n
+0000124488 00000 n
+0000124604 00000 n
+0000124774 00000 n
+0000124926 00000 n
+0000125072 00000 n
+0000125195 00000 n
+0000125385 00000 n
+0000125520 00000 n
+0000125656 00000 n
+0000125780 00000 n
+0000125912 00000 n
+0000126031 00000 n
+0000126169 00000 n
+0000126313 00000 n
+0000126457 00000 n
+0000126570 00000 n
+0000126686 00000 n
+0000126811 00000 n
+0000126988 00000 n
+0000127145 00000 n
+0000127282 00000 n
+0000127419 00000 n
+0000127558 00000 n
+0000127692 00000 n
+0000127827 00000 n
+0000127955 00000 n
+0000128084 00000 n
+0000128260 00000 n
+0000128394 00000 n
+0000128567 00000 n
+0000128702 00000 n
+0000128841 00000 n
+0000128983 00000 n
+0000129147 00000 n
+0000129302 00000 n
+0000129428 00000 n
+0000129574 00000 n
+0000129729 00000 n
+0000129857 00000 n
+0000129988 00000 n
+0000130120 00000 n
+0000130266 00000 n
+0000130412 00000 n
+0000130550 00000 n
+0000130688 00000 n
+0000130837 00000 n
+0000130983 00000 n
+0000131107 00000 n
+0000131246 00000 n
+0000131398 00000 n
+0000131550 00000 n
+0000131706 00000 n
+0000131853 00000 n
 trailer
 <<
 /ID [<77BB724F9CFAEA89CEEB208DE0C665D9> <77BB724F9CFAEA89CEEB208DE0C665D9>]
 /Info 1 0 R
 /Root 2 0 R
-/Size 419
+/Size 420
 >>
 startxref
-131873
+132013
 %%EOF
